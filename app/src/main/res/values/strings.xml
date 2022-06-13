@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Agenda++</string>
+    <string name="Semanal">Semanal</string>
+    <string name="Mensual">Mensual</string>
+    <string name="arrowLeft">←</string>
+    <string name="feb_2021">Feb 2021</string>
+    <string name="arrowRight">→</string>
+    <string name="dom">Dom</string>
+    <string name="lun">Lun</string>
+    <string name="mar">Mar</string>
+    <string name="mie">Mie</string>
+    <string name="jue">Jue</string>
+    <string name="vie">Vie</string>
+    <string name="sab">Sab</string>
+
+</resources>
